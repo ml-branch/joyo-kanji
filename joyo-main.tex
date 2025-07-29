@@ -1,0 +1,127 @@
+\documentclass[ letter , 10pt , titlepage ]{article}
+
+%  \usepackage{ amsmath }  % \numberwithin{equation}{subsection}
+%  \usepackage{ amssymb }
+%  \usepackage{ amsthm }
+\usepackage{ bm }
+\usepackage{ booktabs }
+\usepackage{ caption }
+\usepackage{ changepage }
+\usepackage{ cite }
+\usepackage{ CJKutf8 }
+\usepackage{ colortbl }
+\usepackage[ color = {[rgb]{ 0.9961 , 0.5977 , 0.5977 }} ]{ draftwatermark }
+  \SetWatermarkText{D R A F T}
+  \SetWatermarkScale{ 1.2 }
+  \SetWatermarkAngle{ 52.3 }
+\usepackage{ enumitem }
+%  \usepackage{ epsfig }
+\usepackage{ epstopdf }
+%  \usepackage{ esint }
+%  \usepackage{ esvect }
+\usepackage{ fancyhdr }
+\usepackage{ float }
+%  \usepackage[ T1 ]{ fontenc }
+\usepackage[ margin = 2.54cm ]{ geometry }  \geometry{  }
+\usepackage{ graphicx }
+\usepackage{ hhline }
+\usepackage{ hyperref }
+\usepackage{ import }
+\usepackage[ utf8 ]{ inputenc }
+\usepackage{ lastpage }
+\usepackage{ layout }
+%  \usepackage{ lettrine }
+\usepackage{ lipsum }
+\usepackage{ listings }
+\usepackage{ longtable }
+%  \usepackage{ marginnote }
+%  \usepackage{ mathdots }
+%  \usepackage[ version = 4 ]{ mhchem }
+\usepackage{ multicol }  \setlength{\columnsep}{1cm}
+\usepackage{ multirow }
+\usepackage{ pdflscape }
+%  \usepackage{ setspace }
+\usepackage{ siunitx }
+\usepackage{ subcaption }
+\usepackage{ tabularx }
+\usepackage[ listings , skins ]{ tcolorbox }
+\usepackage{ tikz }
+\usepackage{ type1cm }
+\usepackage{ ulem }
+
+\setlength{\parindent}{0em}
+
+\newcommand{\MMLB}{Malcolm L. Branch}
+\newcommand{\MLB}{ML Branch}
+\newcommand{\BBML}{Branch, Malcolm L.}
+\newcommand{\BML}{Branch, ML}
+
+\newcommand{\DATE}{2025 07 29}
+
+\definecolor{BLACK}{HTML}{000000}
+\definecolor{WHITE}{HTML}{FFFFFF}
+\definecolor{BLUE}{HTML}{0000FF}
+\definecolor{GREEN}{HTML}{008000}
+\definecolor{YELLOW}{HTML}{FFFF00}
+\definecolor{ORANGE}{HTML}{FFA500}
+\definecolor{RED}{HTML}{FF0000}
+\definecolor{PURPLE}{HTML}{800080}
+\definecolor{MAGENTA}{HTML}{FF00FF}
+\definecolor{GRAY}{HTML}{808080}
+
+\title{J\=oy\=o Kanji }
+\author{\BBML }
+\date{\DATE \\Monday HH:MM }
+
+\pagestyle{fancy}
+
+\fancyhead[L]{\textit{J\=oy\=o Kanji} }
+\fancyhead[C]{}
+\fancyhead[R]{}
+
+\fancyfoot[L]{}
+\fancyfoot[C]{\thepage }
+\fancyfoot[R]{}
+%  \fancyfoot[R]{\thepage\ of \pageref{LastPage} }  %%%%  For (Page of Page): {{\thepage}\ of \pageref{LastPage}}
+
+
+\begin{document}
+\maketitle
+
+\pagenumbering{roman}
+
+\section*{BSD 3-Clause License }
+\input{joyo-copy}  \label{S-CR}
+\newpage
+
+\tableofcontents
+\newpage
+
+\section*{Quick Reference }
+\addcontentsline{toc}{section}{Quick Reference }  \label{S-QR}
+\input{joyo-qref}
+\newpage
+
+\pagenumbering{arabic}
+
+\section*{Background }
+\addcontentsline{toc}{section}{Background }  \label{S-0}
+\input{joyo-kana}
+\newpage
+
+\section*{Part 1:\ \ Kanji by Grade Level }
+\addcontentsline{toc}{section}{Part 1:\ \ Kanji by Grade Level }  \label{S-1}
+\input{joyo-part1}
+\newpage
+
+\section*{Part 2:\ \ Kanji by JLPT N\# }
+\addcontentsline{toc}{section}{Part 2:\ \ Kanji by JLPT N\# }  \label{S-2}
+\input{joyo-part2}
+\newpage
+
+\section*{Part 3:\ \ Kanji by Character Radical }
+\addcontentsline{toc}{section}{Part 3:\ \ Kanji by Character Radical }  \label{S-3}
+\input{joyo-part3}
+\newpage
+
+\end{document}
