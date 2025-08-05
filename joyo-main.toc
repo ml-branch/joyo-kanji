@@ -1,19 +1,40 @@
 \contentsline {section}{Quick Reference }{iii}{section*.3}%
-\contentsline {section}{Background }{1}{section*.4}%
-\contentsline {section}{Part 1:\ \ Kanji by Grade Level }{2}{section*.8}%
-\contentsline {subsection}{Grade 1 }{2}{section*.9}%
-\contentsline {subsection}{Grade 2 }{12}{section*.10}%
-\contentsline {subsection}{Grade 3 }{31}{section*.11}%
-\contentsline {subsection}{Grade 4 }{54}{section*.12}%
-\contentsline {subsection}{Grade 5 }{76}{section*.13}%
-\contentsline {subsection}{Grade 6 }{97}{section*.14}%
-\contentsline {subsection}{Secondary Education }{118}{section*.15}%
-\contentsline {section}{Part 2:\ \ Kanji by JLPT N\# }{137}{section*.16}%
-\contentsline {subsection}{JLPT N5 }{137}{section*.17}%
-\contentsline {subsection}{JLPT N4 }{148}{section*.18}%
-\contentsline {subsection}{JLPT N3 }{168}{section*.19}%
-\contentsline {subsection}{JLPT N2 }{211}{section*.20}%
-\contentsline {subsection}{JLPT N1 }{252}{section*.21}%
-\contentsline {section}{Part 3:\ \ Kanji by Character Radical }{273}{section*.22}%
-\contentsline {subsection}{List of Character Radicals }{273}{section*.23}%
-\contentsline {subsection}{List of Character Radicals }{274}{section*.24}%
+\contentsline {section}{Introduction }{1}{section*.4}%
+\contentsline {section}{Part 1:\ \ Kanji by Grade Level }{2}{section*.10}%
+\contentsline {subsection}{Grade 1 }{2}{section*.11}%
+\contentsline {subsection}{Grade 2 }{12}{section*.12}%
+\contentsline {subsection}{Grade 3 }{31}{section*.13}%
+\contentsline {subsection}{Grade 4 }{54}{section*.14}%
+\contentsline {subsection}{Grade 5 }{76}{section*.15}%
+\contentsline {subsection}{Grade 6 }{97}{section*.16}%
+\contentsline {subsection}{Secondary Education }{118}{section*.17}%
+\contentsline {section}{Part 2:\ \ Kanji by JLPT N\# }{138}{section*.18}%
+\contentsline {subsection}{JLPT N5 }{138}{section*.19}%
+\contentsline {subsection}{JLPT N4 }{149}{section*.20}%
+\contentsline {subsection}{JLPT N3 }{169}{section*.21}%
+\contentsline {subsection}{JLPT N2 }{212}{section*.22}%
+\contentsline {subsection}{JLPT N1 }{253}{section*.23}%
+\contentsline {section}{Part 3:\ \ Kanji by Character Radical }{275}{section*.24}%
+\contentsline {subsection}{List of Character Radicals }{275}{section*.25}%
+\contentsline {subsection}{Character Radicals 1---10 }{278}{section*.26}%
+\contentsline {subsection}{Character Radicals 11---20 }{290}{section*.37}%
+\contentsline {subsection}{Character Radicals 21---30 }{298}{section*.48}%
+\contentsline {subsection}{Character Radicals 31---40 }{307}{section*.59}%
+\contentsline {subsection}{Character Radicals 41---50 }{319}{section*.70}%
+\contentsline {subsection}{Character Radicals 51---60 }{326}{section*.81}%
+\contentsline {subsection}{Character Radicals 61---70 }{332}{section*.92}%
+\contentsline {subsection}{Character Radicals 71---80 }{344}{section*.103}%
+\contentsline {subsection}{Character Radicals 81---90 }{358}{section*.114}%
+\contentsline {subsection}{Character Radicals 91---100 }{370}{section*.125}%
+\contentsline {subsection}{Character Radicals 101---110 }{374}{section*.136}%
+\contentsline {subsection}{Character Radicals 111---120 }{380}{section*.147}%
+\contentsline {subsection}{Character Radicals 121---130 }{393}{section*.158}%
+\contentsline {subsection}{Character Radicals 131---140 }{399}{section*.169}%
+\contentsline {subsection}{Character Radicals 141---150 }{405}{section*.180}%
+\contentsline {subsection}{Character Radicals 151---160 }{414}{section*.191}%
+\contentsline {subsection}{Character Radicals 161---170 }{421}{section*.202}%
+\contentsline {subsection}{Character Radicals 171---180 }{431}{section*.213}%
+\contentsline {subsection}{Character Radicals 181---190 }{434}{section*.224}%
+\contentsline {subsection}{Character Radicals 191---200 }{439}{section*.235}%
+\contentsline {subsection}{Character Radicals 201---210 }{441}{section*.246}%
+\contentsline {subsection}{Character Radicals 210---214 }{443}{section*.257}%
