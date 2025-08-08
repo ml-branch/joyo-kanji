@@ -1,4 +1,4 @@
-\contentsline {section}{Quick Reference }{iii}{section*.3}%
+\contentsline {section}{Quick Reference }{vii}{section*.3}%
 \contentsline {section}{Introduction }{1}{section*.4}%
 \contentsline {section}{Part 1:\ \ Kanji by Grade Level }{2}{section*.10}%
 \contentsline {subsection}{Grade 1 }{2}{section*.11}%
@@ -8,33 +8,247 @@
 \contentsline {subsection}{Grade 5 }{76}{section*.15}%
 \contentsline {subsection}{Grade 6 }{97}{section*.16}%
 \contentsline {subsection}{Secondary Education }{118}{section*.17}%
-\contentsline {section}{Part 2:\ \ Kanji by JLPT N\# }{138}{section*.18}%
-\contentsline {subsection}{JLPT N5 }{138}{section*.19}%
-\contentsline {subsection}{JLPT N4 }{149}{section*.20}%
-\contentsline {subsection}{JLPT N3 }{169}{section*.21}%
-\contentsline {subsection}{JLPT N2 }{212}{section*.22}%
-\contentsline {subsection}{JLPT N1 }{253}{section*.23}%
-\contentsline {section}{Part 3:\ \ Kanji by Character Radical }{275}{section*.24}%
-\contentsline {subsection}{List of Character Radicals }{275}{section*.25}%
-\contentsline {subsection}{Character Radicals 1---10 }{278}{section*.26}%
-\contentsline {subsection}{Character Radicals 11---20 }{290}{section*.37}%
-\contentsline {subsection}{Character Radicals 21---30 }{298}{section*.48}%
-\contentsline {subsection}{Character Radicals 31---40 }{307}{section*.59}%
-\contentsline {subsection}{Character Radicals 41---50 }{319}{section*.70}%
-\contentsline {subsection}{Character Radicals 51---60 }{326}{section*.81}%
-\contentsline {subsection}{Character Radicals 61---70 }{332}{section*.92}%
-\contentsline {subsection}{Character Radicals 71---80 }{344}{section*.103}%
-\contentsline {subsection}{Character Radicals 81---90 }{358}{section*.114}%
-\contentsline {subsection}{Character Radicals 91---100 }{370}{section*.125}%
-\contentsline {subsection}{Character Radicals 101---110 }{374}{section*.136}%
-\contentsline {subsection}{Character Radicals 111---120 }{380}{section*.147}%
-\contentsline {subsection}{Character Radicals 121---130 }{393}{section*.158}%
-\contentsline {subsection}{Character Radicals 131---140 }{399}{section*.169}%
-\contentsline {subsection}{Character Radicals 141---150 }{405}{section*.180}%
-\contentsline {subsection}{Character Radicals 151---160 }{414}{section*.191}%
-\contentsline {subsection}{Character Radicals 161---170 }{421}{section*.202}%
-\contentsline {subsection}{Character Radicals 171---180 }{431}{section*.213}%
-\contentsline {subsection}{Character Radicals 181---190 }{434}{section*.224}%
-\contentsline {subsection}{Character Radicals 191---200 }{439}{section*.235}%
-\contentsline {subsection}{Character Radicals 201---210 }{441}{section*.246}%
-\contentsline {subsection}{Character Radicals 210---214 }{443}{section*.257}%
+\contentsline {section}{Part 2:\ \ Kanji by JLPT N\# }{142}{section*.18}%
+\contentsline {subsection}{JLPT N5 }{142}{section*.19}%
+\contentsline {subsection}{JLPT N4 }{153}{section*.20}%
+\contentsline {subsection}{JLPT N3 }{173}{section*.21}%
+\contentsline {subsection}{JLPT N2 }{216}{section*.22}%
+\contentsline {subsection}{JLPT N1 }{257}{section*.23}%
+\contentsline {section}{Part 3:\ \ Kanji by Character Radical }{283}{section*.24}%
+\contentsline {subsection}{List of Character Radicals }{283}{section*.25}%
+\contentsline {subsection}{Character Radicals 1---10 }{284}{section*.26}%
+\contentsline {subsubsection}{}{284}{section*.27}%
+\contentsline {subsubsection}{}{285}{section*.28}%
+\contentsline {subsubsection}{}{285}{section*.29}%
+\contentsline {subsubsection}{}{285}{section*.30}%
+\contentsline {subsubsection}{}{286}{section*.31}%
+\contentsline {subsubsection}{}{286}{section*.32}%
+\contentsline {subsubsection}{}{287}{section*.33}%
+\contentsline {subsubsection}{}{287}{section*.34}%
+\contentsline {subsubsection}{}{288}{section*.35}%
+\contentsline {subsubsection}{}{294}{section*.36}%
+\contentsline {subsection}{Character Radicals 11---20 }{296}{section*.37}%
+\contentsline {subsubsection}{}{296}{section*.38}%
+\contentsline {subsubsection}{}{296}{section*.39}%
+\contentsline {subsubsection}{}{297}{section*.40}%
+\contentsline {subsubsection}{}{297}{section*.41}%
+\contentsline {subsubsection}{}{297}{section*.42}%
+\contentsline {subsubsection}{}{298}{section*.43}%
+\contentsline {subsubsection}{}{298}{section*.44}%
+\contentsline {subsubsection}{}{298}{section*.45}%
+\contentsline {subsubsection}{}{301}{section*.46}%
+\contentsline {subsubsection}{}{303}{section*.47}%
+\contentsline {subsection}{Character Radicals 21---30 }{304}{section*.48}%
+\contentsline {subsubsection}{}{304}{section*.49}%
+\contentsline {subsubsection}{}{304}{section*.50}%
+\contentsline {subsubsection}{}{304}{section*.51}%
+\contentsline {subsubsection}{}{304}{section*.52}%
+\contentsline {subsubsection}{}{305}{section*.53}%
+\contentsline {subsubsection}{}{305}{section*.54}%
+\contentsline {subsubsection}{}{306}{section*.55}%
+\contentsline {subsubsection}{}{306}{section*.56}%
+\contentsline {subsubsection}{}{307}{section*.57}%
+\contentsline {subsubsection}{}{307}{section*.58}%
+\contentsline {subsection}{Character Radicals 31---40 }{313}{section*.59}%
+\contentsline {subsubsection}{}{313}{section*.60}%
+\contentsline {subsubsection}{}{314}{section*.61}%
+\contentsline {subsubsection}{}{317}{section*.62}%
+\contentsline {subsubsection}{}{317}{section*.63}%
+\contentsline {subsubsection}{}{317}{section*.64}%
+\contentsline {subsubsection}{}{317}{section*.65}%
+\contentsline {subsubsection}{}{318}{section*.66}%
+\contentsline {subsubsection}{}{319}{section*.67}%
+\contentsline {subsubsection}{}{321}{section*.68}%
+\contentsline {subsubsection}{}{322}{section*.69}%
+\contentsline {subsection}{Character Radicals 41---50 }{326}{section*.70}%
+\contentsline {subsubsection}{}{326}{section*.71}%
+\contentsline {subsubsection}{}{327}{section*.72}%
+\contentsline {subsubsection}{}{327}{section*.73}%
+\contentsline {subsubsection}{}{327}{section*.74}%
+\contentsline {subsubsection}{}{328}{section*.75}%
+\contentsline {subsubsection}{}{328}{section*.76}%
+\contentsline {subsubsection}{}{329}{section*.77}%
+\contentsline {subsubsection}{}{330}{section*.78}%
+\contentsline {subsubsection}{}{330}{section*.79}%
+\contentsline {subsubsection}{}{330}{section*.80}%
+\contentsline {subsection}{Character Radicals 51---60 }{333}{section*.81}%
+\contentsline {subsubsection}{}{333}{section*.82}%
+\contentsline {subsubsection}{}{333}{section*.83}%
+\contentsline {subsubsection}{}{333}{section*.84}%
+\contentsline {subsubsection}{}{335}{section*.85}%
+\contentsline {subsubsection}{}{335}{section*.86}%
+\contentsline {subsubsection}{}{335}{section*.87}%
+\contentsline {subsubsection}{}{336}{section*.88}%
+\contentsline {subsubsection}{}{336}{section*.89}%
+\contentsline {subsubsection}{}{337}{section*.90}%
+\contentsline {subsubsection}{}{337}{section*.91}%
+\contentsline {subsection}{Character Radicals 61---70 }{339}{section*.92}%
+\contentsline {subsubsection}{}{339}{section*.93}%
+\contentsline {subsubsection}{}{342}{section*.94}%
+\contentsline {subsubsection}{}{343}{section*.95}%
+\contentsline {subsubsection}{}{343}{section*.96}%
+\contentsline {subsubsection}{}{347}{section*.97}%
+\contentsline {subsubsection}{}{347}{section*.98}%
+\contentsline {subsubsection}{}{349}{section*.99}%
+\contentsline {subsubsection}{}{349}{section*.100}%
+\contentsline {subsubsection}{}{349}{section*.101}%
+\contentsline {subsubsection}{}{350}{section*.102}%
+\contentsline {subsection}{Character Radicals 71---80 }{351}{section*.103}%
+\contentsline {subsubsection}{}{351}{section*.104}%
+\contentsline {subsubsection}{}{351}{section*.105}%
+\contentsline {subsubsection}{}{354}{section*.106}%
+\contentsline {subsubsection}{}{355}{section*.107}%
+\contentsline {subsubsection}{}{355}{section*.108}%
+\contentsline {subsubsection}{}{361}{section*.109}%
+\contentsline {subsubsection}{}{362}{section*.110}%
+\contentsline {subsubsection}{}{363}{section*.111}%
+\contentsline {subsubsection}{}{363}{section*.112}%
+\contentsline {subsubsection}{}{364}{section*.113}%
+\contentsline {subsection}{Character Radicals 81---90 }{365}{section*.114}%
+\contentsline {subsubsection}{}{365}{section*.115}%
+\contentsline {subsubsection}{}{365}{section*.116}%
+\contentsline {subsubsection}{}{365}{section*.117}%
+\contentsline {subsubsection}{}{365}{section*.118}%
+\contentsline {subsubsection}{}{365}{section*.119}%
+\contentsline {subsubsection}{}{373}{section*.120}%
+\contentsline {subsubsection}{}{375}{section*.121}%
+\contentsline {subsubsection}{}{376}{section*.122}%
+\contentsline {subsubsection}{}{376}{section*.123}%
+\contentsline {subsubsection}{}{376}{section*.124}%
+\contentsline {subsection}{Character Radicals 91---100 }{377}{section*.125}%
+\contentsline {subsubsection}{}{377}{section*.126}%
+\contentsline {subsubsection}{}{377}{section*.127}%
+\contentsline {subsubsection}{}{377}{section*.128}%
+\contentsline {subsubsection}{}{377}{section*.129}%
+\contentsline {subsubsection}{}{378}{section*.130}%
+\contentsline {subsubsection}{}{378}{section*.131}%
+\contentsline {subsubsection}{}{379}{section*.132}%
+\contentsline {subsubsection}{}{379}{section*.133}%
+\contentsline {subsubsection}{}{379}{section*.134}%
+\contentsline {subsubsection}{}{380}{section*.135}%
+\contentsline {subsection}{Character Radicals 101---110 }{381}{section*.136}%
+\contentsline {subsubsection}{}{381}{section*.137}%
+\contentsline {subsubsection}{}{381}{section*.138}%
+\contentsline {subsubsection}{}{383}{section*.139}%
+\contentsline {subsubsection}{}{383}{section*.140}%
+\contentsline {subsubsection}{}{384}{section*.141}%
+\contentsline {subsubsection}{}{384}{section*.142}%
+\contentsline {subsubsection}{}{384}{section*.143}%
+\contentsline {subsubsection}{}{385}{section*.144}%
+\contentsline {subsubsection}{}{385}{section*.145}%
+\contentsline {subsubsection}{}{386}{section*.146}%
+\contentsline {subsection}{Character Radicals 111---120 }{387}{section*.147}%
+\contentsline {subsubsection}{}{387}{section*.148}%
+\contentsline {subsubsection}{}{387}{section*.149}%
+\contentsline {subsubsection}{}{388}{section*.150}%
+\contentsline {subsubsection}{}{389}{section*.151}%
+\contentsline {subsubsection}{}{390}{section*.152}%
+\contentsline {subsubsection}{}{391}{section*.153}%
+\contentsline {subsubsection}{}{391}{section*.154}%
+\contentsline {subsubsection}{}{392}{section*.155}%
+\contentsline {subsubsection}{}{394}{section*.156}%
+\contentsline {subsubsection}{}{395}{section*.157}%
+\contentsline {subsection}{Character Radicals 121---130 }{400}{section*.158}%
+\contentsline {subsubsection}{}{400}{section*.159}%
+\contentsline {subsubsection}{}{400}{section*.160}%
+\contentsline {subsubsection}{}{400}{section*.161}%
+\contentsline {subsubsection}{}{401}{section*.162}%
+\contentsline {subsubsection}{}{401}{section*.163}%
+\contentsline {subsubsection}{}{402}{section*.164}%
+\contentsline {subsubsection}{}{402}{section*.165}%
+\contentsline {subsubsection}{}{402}{section*.166}%
+\contentsline {subsubsection}{}{403}{section*.167}%
+\contentsline {subsubsection}{}{403}{section*.168}%
+\contentsline {subsection}{Character Radicals 131---140 }{406}{section*.169}%
+\contentsline {subsubsection}{}{406}{section*.170}%
+\contentsline {subsubsection}{}{406}{section*.171}%
+\contentsline {subsubsection}{}{406}{section*.172}%
+\contentsline {subsubsection}{}{406}{section*.173}%
+\contentsline {subsubsection}{}{407}{section*.174}%
+\contentsline {subsubsection}{}{407}{section*.175}%
+\contentsline {subsubsection}{}{407}{section*.176}%
+\contentsline {subsubsection}{}{408}{section*.177}%
+\contentsline {subsubsection}{}{408}{section*.178}%
+\contentsline {subsubsection}{}{408}{section*.179}%
+\contentsline {subsection}{Character Radicals 141---150 }{412}{section*.180}%
+\contentsline {subsubsection}{}{412}{section*.181}%
+\contentsline {subsubsection}{}{412}{section*.182}%
+\contentsline {subsubsection}{}{412}{section*.183}%
+\contentsline {subsubsection}{}{412}{section*.184}%
+\contentsline {subsubsection}{}{413}{section*.185}%
+\contentsline {subsubsection}{}{414}{section*.186}%
+\contentsline {subsubsection}{}{415}{section*.187}%
+\contentsline {subsubsection}{}{416}{section*.188}%
+\contentsline {subsubsection}{}{416}{section*.189}%
+\contentsline {subsubsection}{}{420}{section*.190}%
+\contentsline {subsection}{Character Radicals 151---160 }{421}{section*.191}%
+\contentsline {subsubsection}{}{421}{section*.192}%
+\contentsline {subsubsection}{}{421}{section*.193}%
+\contentsline {subsubsection}{}{421}{section*.194}%
+\contentsline {subsubsection}{}{421}{section*.195}%
+\contentsline {subsubsection}{}{424}{section*.196}%
+\contentsline {subsubsection}{}{424}{section*.197}%
+\contentsline {subsubsection}{}{424}{section*.198}%
+\contentsline {subsubsection}{}{425}{section*.199}%
+\contentsline {subsubsection}{}{425}{section*.200}%
+\contentsline {subsubsection}{}{426}{section*.201}%
+\contentsline {subsection}{Character Radicals 161---170 }{428}{section*.202}%
+\contentsline {subsubsection}{}{428}{section*.203}%
+\contentsline {subsubsection}{}{428}{section*.204}%
+\contentsline {subsubsection}{}{431}{section*.205}%
+\contentsline {subsubsection}{}{432}{section*.206}%
+\contentsline {subsubsection}{}{432}{section*.207}%
+\contentsline {subsubsection}{}{432}{section*.208}%
+\contentsline {subsubsection}{}{433}{section*.209}%
+\contentsline {subsubsection}{}{434}{section*.210}%
+\contentsline {subsubsection}{}{434}{section*.211}%
+\contentsline {subsubsection}{}{435}{section*.212}%
+\contentsline {subsection}{Character Radicals 171---180 }{438}{section*.213}%
+\contentsline {subsubsection}{}{438}{section*.214}%
+\contentsline {subsubsection}{}{438}{section*.215}%
+\contentsline {subsubsection}{}{438}{section*.216}%
+\contentsline {subsubsection}{}{439}{section*.217}%
+\contentsline {subsubsection}{}{440}{section*.218}%
+\contentsline {subsubsection}{}{440}{section*.219}%
+\contentsline {subsubsection}{}{440}{section*.220}%
+\contentsline {subsubsection}{}{440}{section*.221}%
+\contentsline {subsubsection}{}{440}{section*.222}%
+\contentsline {subsubsection}{}{440}{section*.223}%
+\contentsline {subsection}{Character Radicals 181---190 }{442}{section*.224}%
+\contentsline {subsubsection}{}{442}{section*.225}%
+\contentsline {subsubsection}{}{443}{section*.226}%
+\contentsline {subsubsection}{}{443}{section*.227}%
+\contentsline {subsubsection}{}{443}{section*.228}%
+\contentsline {subsubsection}{}{444}{section*.229}%
+\contentsline {subsubsection}{}{444}{section*.230}%
+\contentsline {subsubsection}{}{445}{section*.231}%
+\contentsline {subsubsection}{}{445}{section*.232}%
+\contentsline {subsubsection}{}{445}{section*.233}%
+\contentsline {subsubsection}{}{446}{section*.234}%
+\contentsline {subsection}{Character Radicals 191---200 }{447}{section*.235}%
+\contentsline {subsubsection}{}{447}{section*.236}%
+\contentsline {subsubsection}{}{447}{section*.237}%
+\contentsline {subsubsection}{}{447}{section*.238}%
+\contentsline {subsubsection}{}{447}{section*.239}%
+\contentsline {subsubsection}{}{447}{section*.240}%
+\contentsline {subsubsection}{}{447}{section*.241}%
+\contentsline {subsubsection}{}{448}{section*.242}%
+\contentsline {subsubsection}{}{448}{section*.243}%
+\contentsline {subsubsection}{}{448}{section*.244}%
+\contentsline {subsubsection}{}{448}{section*.245}%
+\contentsline {subsection}{Character Radicals 201---210 }{449}{section*.246}%
+\contentsline {subsubsection}{}{449}{section*.247}%
+\contentsline {subsubsection}{}{449}{section*.248}%
+\contentsline {subsubsection}{}{449}{section*.249}%
+\contentsline {subsubsection}{}{449}{section*.250}%
+\contentsline {subsubsection}{}{449}{section*.251}%
+\contentsline {subsubsection}{}{449}{section*.252}%
+\contentsline {subsubsection}{}{450}{section*.253}%
+\contentsline {subsubsection}{}{450}{section*.254}%
+\contentsline {subsubsection}{}{450}{section*.255}%
+\contentsline {subsubsection}{}{450}{section*.256}%
+\contentsline {subsection}{Character Radicals 210---214 }{451}{section*.257}%
+\contentsline {subsubsection}{}{451}{section*.258}%
+\contentsline {subsubsection}{}{451}{section*.259}%
+\contentsline {subsubsection}{}{451}{section*.260}%
+\contentsline {subsubsection}{}{451}{section*.261}%
