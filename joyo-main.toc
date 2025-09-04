@@ -8,9 +8,9 @@
 \contentsline {subsection}{Grade 5 }{76}{section*.16}%
 \contentsline {subsection}{Grade 6 }{97}{section*.17}%
 \contentsline {subsection}{Secondary Education }{118}{section*.18}%
-\contentsline {section}{Part 2:\ \ Kanji by JLPT N\# }{160}{section*.19}%
-\contentsline {subsection}{JLPT N5 }{160}{section*.20}%
-\contentsline {subsection}{JLPT N4 }{171}{section*.21}%
-\contentsline {subsection}{JLPT N3 }{191}{section*.22}%
-\contentsline {subsection}{JLPT N2 }{234}{section*.23}%
-\contentsline {subsection}{JLPT N1 }{275}{section*.24}%
+\contentsline {section}{Part 2:\ \ Kanji by JLPT N\# }{162}{section*.19}%
+\contentsline {subsection}{JLPT N5 }{162}{section*.20}%
+\contentsline {subsection}{JLPT N4 }{173}{section*.21}%
+\contentsline {subsection}{JLPT N3 }{193}{section*.22}%
+\contentsline {subsection}{JLPT N2 }{236}{section*.23}%
+\contentsline {subsection}{JLPT N1 }{277}{section*.24}%
